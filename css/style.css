@@ -1,0 +1,15 @@
+body{
+  background-image:url("https://i.pinimg.com/236x/48/93/b4/4893b40f41c7b773381d99935ffd0d6b--solid-color-backgrounds-neon-colors.jpg");
+  background-size: 100%;
+  background-attachment:fixed;
+  color:white;
+  font-family: 'Seaweed Script', cursive;
+
+}
+
+h2 {
+  display:inline;
+}
+#start{
+ margin: 10px;
+}
